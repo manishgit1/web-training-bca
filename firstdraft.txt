@@ -1,0 +1,2 @@
+This is first draft of folder git training.
+Extra features are added here but not shown because they are private.
